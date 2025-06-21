@@ -1,0 +1,241 @@
+{
+    "language": "vi",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😡"
+    },
+    "ndhOnly": false,
+    "adminOnly": true,
+    "NOTIFICATION": true,
+    "allowInbox": false,
+    "autoClean": true,
+    "adminPaseOnly": false,
+    "encryptSt": false,
+    "UPTIME": 3048781.469046524,
+    "DASHBOARD": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Pham Tan Dung",
+    "PREFIX": "/",
+    "NDH": [
+        "100013542466243",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "ADMINBOT": [
+        "100013542466243",
+        "100022083542181",
+        "100006921109484",
+        "100038133563480",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "fca-disme",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "1.2.14",
+    "audio": {
+        "YOUTUBE_API": "AIzaSyANZ2iLlzjDztWXgbCgL8Oeimn3i3qd0bE",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "daily": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "diemdanh": {
+        "cooldownTime": 300
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "huongdan": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 60,
+        "sendAttachments": {
+            "status": true,
+            "random": true,
+            "url": "https://i.imgur.com/LKkw8SL.jpg"
+        }
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "mirai": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "music": {
+        "YOUTUBE_API": "AIzaSyANZ2iLlzjDztWXgbCgL8Oeimn3i3qd0bE"
+    },
+    "nhanluot": {
+        "cooldownTime": 21600000,
+        "rewardCoin": 10000
+    },
+    "nhantien": {
+        "cooldownTime": 43200000
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "radio": {
+        "YOUTUBE_API": "AIzaSyANZ2iLlzjDztWXgbCgL8Oeimn3i3qd0bE"
+    },
+    "song": {
+        "YOUTUBE_API": "AIzaSyCe-hCIuTwonZ9fD2BG7dvU5eMoHWSaOGE",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "surprise": {
+        "log": true,
+        "out": false,
+        "kickAll": false,
+        "delThread": false
+    },
+    "tenngaunhien": {
+        "APIKEY": "mi451266190"
+    },
+    "tx": {
+        "timeout": 3000,
+        "core": 3,
+        "api_key": "JrT_Rosie_4100115343"
+    },
+    "watch": {
+        "YOUTUBE_API": "AIzaSyANZ2iLlzjDztWXgbCgL8Oeimn3i3qd0bE"
+    },
+    "weather": {
+        "OPEN_WEATHER": "196ac91264f90df6590b46309556229f"
+    },
+    "work": {
+        "cooldownTime": 600000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    },
+    "allspadmOnly": false,
+    "bank": {
+        "APIKEY": "chinhdz"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cavev2": {
+        "cooldownTime": 60
+    },
+    "duaxe": {
+        "key": "cuongngu"
+    },
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "hitbutt": {
+        "APIKEY": ""
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "img": {
+        "APIKEY": ""
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "nameJP": {
+        "APIKEY": "mi451266190"
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sanime": {
+        "SAUCENAO_API": "169d56aff7fa708a78d20f1718a49faa98d4aeca"
+    },
+    "sub": {
+        "APIKEY": ""
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "wcauca": {
+        "cooldownTime": 30000
+    },
+    "ytmp3": {
+        "YOUTUBE_API": "AIzaSyA25_Ne0gD1DeciKIM8PzZBLvQ0MgGRlr0"
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyAV-_gwPIG08N9ELnovGVr3jxY7NmlMfDM"
+    },
+    "nganhang": {
+        "key": "DUBFREE"
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "workfish": {
+        "cooldownTime": 30000
+    },
+    "randomname": {
+        "APIKEY": "mi451266190"
+    },
+    "spam": {
+        "spamDelay": 2
+    },
+    "tikinfo": {
+        "apikey": "fOeckmtu"
+    }
+}
